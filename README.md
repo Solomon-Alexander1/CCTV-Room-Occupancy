@@ -122,7 +122,7 @@ python upscale_video.py --input ../room1_video.mp4 --output enhanced.mp4
 ```
 ## 📽️ Demo Video
 
-▶️ [Click here to watch the demo video](https://github.com/Solomon-Alexander1/CCTV-Room-Occupancy/releases/latest/download/Final%20CCTV%20Room%20Occupency.mkv)
+▶️ [Click here to watch the demo video](https://github.com/Solomon-Alexander1/CCTV-Room-Occupancy/blob/master/Final%20CCTV%20Room%20Occupency.mkv)
 
 > Since it is tracked via Git LFS, make sure Git LFS is installed:
 
